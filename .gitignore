@@ -328,5 +328,4 @@ testem.log
 .DS_Store
 Thumbs.db
 
-
-App.config	
+/TwilioSendMessageWhatsapp/TwilioSendMessageWhatsapp/App.config
